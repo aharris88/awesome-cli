@@ -372,6 +372,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [task-spooler](https://tracker.debian.org/pkg/task-spooler) - Queue jobs for linear execution.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) - Bookmark commands with placeholders and search or autocomplete at any time.
 
 ### System Interaction Utilities
 
